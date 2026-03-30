@@ -4,7 +4,7 @@
 
 This project demonstrates the creation and configuration of Azure Virtual Network,Network Security Group,and Virtual Machines with IIS Web Server
 
-The objective of this project is to understand Azure networking,subnet configuration, NSG rules and public access to a virtual machine.
+The objective of this project is to understand Azure networking, subnet configuration, NSG rules and public access to a virtual machine.
 
 ## Services Used
 
